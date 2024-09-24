@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/netplix.png
+  color_dark: "#ffffff"
+  image_dark: assets/netplix.png
+
+  android_12:
+    image: assets/netplix.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/netplix.png
+    icon_background_color_dark: "#ffffff"
+
+  web: false
